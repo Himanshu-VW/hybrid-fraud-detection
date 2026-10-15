@@ -245,12 +245,7 @@ The rest of the rule loss structure remains identical.
 
 ---
 
-## License
-
-MIT License. See `LICENSE` for details.
-
----
 
 ## Author
 
-[@Emmimal](https://github.com/Emmimal)
+[@Himanshu](https://github.com/Himanshu-VW)
